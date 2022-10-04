@@ -6,7 +6,7 @@ I'm [Lahari](https://github.com/Lahari-1996), An Aspiring Backend Developer with
 
 I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
 
-  💼 any freelance work? do reach [email](mailto:laharipattanayak67@gmail.com) <br/>
+  💼 Do reach [email](mailto:laharipattanayak67@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
   👨‍💻 Checkout my [Portfolio](https://portfolio-laharipattanayak.netlify.app/) & [my linkedin profile](https://www.linkedin.com/in/lahari-pattanayak/) <br/>
 
