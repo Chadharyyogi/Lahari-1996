@@ -1,5 +1,5 @@
 
-<img align="right" style="height: 230px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+<img align="right" style="height: 300px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 ### Hi there 👋
 
 I'm [Lahari](https://github.com/Lahari-1996), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
