@@ -1,9 +1,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mayurisamanta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lahari-1996&label=Profile%20views&color=0e75b6&style=flat" alt="laharipattanayak" /> </p>
 
-<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+<img align="right" style="height: 300px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 ### Hi there 👋
 
 I'm [Lahari](https://github.com/Lahari-1996), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
