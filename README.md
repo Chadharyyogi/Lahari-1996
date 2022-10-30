@@ -1,5 +1,10 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif" width="320px" />
 
+<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Mayuri Samanta</h1>
+    <h3 align="center">An Aspiring Java developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mayurisamanta" /> </p>
+
+<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 ### Hi there 👋
 
 I'm [Lahari](https://github.com/Lahari-1996), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
