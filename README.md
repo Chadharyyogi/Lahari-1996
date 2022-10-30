@@ -8,7 +8,7 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 
   💼 Do reach [email](mailto:laharipattanayak67@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
-  👨‍💻 Checkout my [Portfolio](https://portfolio-laharipattanayak.netlify.app/) & [my linkedin profile](https://www.linkedin.com/in/lahari-pattanayak/) <br/>
+  👨‍💻 Checkout my [Portfolio](https://laharipattanayak-portfolio.netlify.app/) & [my linkedin profile](https://www.linkedin.com/in/lahari-pattanayak/) <br/>
 
 
 
