@@ -1,4 +1,4 @@
-  <img align="right" style="height: 250px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+  <img align="right" style="height: 300px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 
 ### Hi there 👋
 
