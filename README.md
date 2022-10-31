@@ -19,7 +19,9 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
   <img align="left" alt="Lahari's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-
+<a href="https://leetcode.com/Lahari1996/">
+  <img align="left" alt="Lahari's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
+</a>
 
 <br />
 
