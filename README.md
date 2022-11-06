@@ -4,7 +4,7 @@
 
 I'm [Lahari](https://github.com/Lahari-1996), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
 
-I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
+I'm an Object-oriented, Self-motivated and curious professional, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
 
   💼 Do reach [email](mailto:laharipattanayak67@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
